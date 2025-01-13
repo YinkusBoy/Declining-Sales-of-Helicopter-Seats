@@ -91,4 +91,3 @@ We welcome contributions to enhance this project. To get started:
 - Update documentation where necessary.
 - Include test cases for new features.
 
-Thank you for your contributions!
